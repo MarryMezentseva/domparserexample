@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<company>
+    <staff id="1001" fff="sdb">
+        <firstname>masha</firstname>
+        dgbdgb
+        <lastname>Mezentseva</lastname>
+        <nickname>mahaha</nickname>
+        <salary></salary>
+    </staff>
+    asdfgvsdvb
+    <staff id="2001">
+        <firstname>fisha</firstname>
+        <lastname>mezentsev</lastname>
+        <nickname>dog</nickname>
+        <salary>200000</salary>
+    </staff>
+    <additional>
+        <tag1/>
+        <tag1>
+            <child id="222" name="some name" var="some_var">text</child>
+            <child id="222"/>
+            <child id="2234">fgjhdrt</child>
+            <child id="2244"></child>
+        </tag1>
+    </additional>
+</company>
